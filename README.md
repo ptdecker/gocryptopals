@@ -16,6 +16,6 @@ $ go install
 ### Set 1 Challenge 1 - Convert hex to base64
 
 ```
-$ cd $GOPATH
-$ bin\gocryptopals < data\sc01c01.txt
+$ cd $GOPATH/src/github.com/ptdecker/gocryptopals
+$ $GOPATH/bin/gocryptopals < data/sc01c01.txt
 ```
